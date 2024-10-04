@@ -5,7 +5,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ![tech_stack](./tech_stack.png)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -35,10 +34,10 @@
 <br>
 <br>
 <br>
-<br>
 
 ![check](./check.png)
-[![notion](./notion.jpg)](http://bank-of-phampham.notion.site)  
+[![notion](./notion.jpg)](http://bank-of-phampham.notion.site)
+[![youtube](./youtube.jpg)](https://www.youtube.com/@bank_of_phampham)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamPham2S&layout=compact)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamPham2S&show_icons=true&theme=dracula) -->
