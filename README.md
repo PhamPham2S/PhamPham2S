@@ -38,6 +38,9 @@
 ![check](./check.png)
 [![notion](./notion.jpg)](http://bank-of-phampham.notion.site)
 [![youtube](./youtube.jpg)](https://www.youtube.com/@bank_of_phampham)
+[![naver_blog](./naver_blog.jpg)](https://blog.naver.com/kaist2015)
+[![tistory_blog](./tistory_blog.jpg)](https://kaist2015.tistory.com/)
+[![newneek](./newneek.jpg)](https://newneek.co/@kaist2015)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamPham2S&layout=compact)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamPham2S&show_icons=true&theme=dracula) -->
