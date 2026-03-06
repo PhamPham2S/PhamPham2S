@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner"/>
 </div>
 
 <div>
-  <h6>압도적 러닝 커브</h6>
+  <h4>압도적 러닝 커브</h4>
   <small>
     피아노 입문한 지 3개월 만에 라흐마니노프 피아노 협주곡 2번 1악장을,<br>
     경제 입문한 지 3개월 만에 TESAT 대학생 최우수상 수상을,<br>
