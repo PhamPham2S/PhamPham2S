@@ -2,6 +2,10 @@
   <img src="up_banner.png" alt="Banner"/>
 </div>
 
+<br>
+
+[![Notion](https://img.shields.io/badge/한국은행_총재_조준호-black?style=for-the-badge&logo=notion&logoColor=white)](https://phampham2s.notion.site/)
+
 <div>
   <h4>압도적 러닝 커브</h4>
   <small>
