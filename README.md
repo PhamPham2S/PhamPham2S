@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Banner"/>
+  <img src="up_banner.png" alt="Banner"/>
 </div>
 
 <div>
@@ -41,12 +41,12 @@
   <br>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/Design%20%26%20Creative%20Work-black?style=for-the-badge&logo=adobe&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Design%20%26%20Creative%20Work-black?style=for-the-badge&logo=figma&logoColor=white" height="32" />
   </div>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae&bg=white" />
 <div>
 
-<br><br><br>
+<br>
 
 <a href="https://github.com/PhamPham2S">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhamPham2S&theme=default" alt="GitHub Profile Summary" />
