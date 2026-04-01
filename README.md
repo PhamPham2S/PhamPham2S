@@ -55,3 +55,8 @@
 <a href="https://github.com/PhamPham2S">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhamPham2S&theme=default" alt="GitHub Profile Summary" />
 </a>
+
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
