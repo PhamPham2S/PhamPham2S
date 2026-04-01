@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정 UTC 실행
+    - cron: '0 15 * * *'  # 매일 자정 UTC 실행
   workflow_dispatch:       # 수동 실행도 가능
 
 jobs:
@@ -17,3 +17,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: true   # 누적 총합
           SHOW_LINES_OF_CODE: true
           SHOW_DAYS_OF_WEEK: true
+          SHOW_SHORT_INFO: false        # 🐱 My GitHub Data 섹션
+          SHOW_LANGUAGE_PER_REPO: false # I Mostly Code in...
+          SHOW_LOC_CHART: false         # Timeline 차트
+          SHOW_UPDATED_DATE: false      # Last Updated on...
