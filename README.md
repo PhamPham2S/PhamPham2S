@@ -61,7 +61,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
@@ -70,21 +70,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-🌆 Daytime                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-🌃 Evening                756 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
-🌙 Night                  744 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
+🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+🌆 Daytime                324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+🌃 Evening                756 commits         ████████░░░░░░░░░░░░░░░░░   32.84 % 
+🌙 Night                  744 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Tuesday                  660 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-Wednesday                715 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
-Thursday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Tuesday                  660 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Wednesday                715 commits         ████████░░░░░░░░░░░░░░░░░   31.06 % 
+Thursday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Friday                   203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Sunday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Sunday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 
@@ -94,24 +94,23 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 9 hrs 47 mins       ████████████████░░░░░░░░░   63.46 % 
-TypeScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Python                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Markdown                 10 hrs 51 mins      ████████████████░░░░░░░░░   65.99 % 
+Python                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 36 mins      ████████████████████████░   94.69 % 
-Unknown Editor           49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+VS Code                  16 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tell-me-lion             12 hrs 46 mins      █████████████████████░░░░   82.71 % 
-mediwhale                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-code-it                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+tell-me-lion             12 hrs 9 mins       ██████████████████░░░░░░░   73.86 % 
+mediwhale                4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+code-it                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Windows                  15 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
