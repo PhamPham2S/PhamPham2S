@@ -61,7 +61,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
@@ -94,23 +94,23 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 10 hrs 51 mins      ████████████████░░░░░░░░░   65.99 % 
-Python                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Markdown                 10 hrs 36 mins      ████████████████░░░░░░░░░   63.98 % 
+Python                   1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tell-me-lion             12 hrs 9 mins       ██████████████████░░░░░░░   73.86 % 
-mediwhale                4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+tell-me-lion             10 hrs 27 mins      ████████████████░░░░░░░░░   63.08 % 
+mediwhale                5 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.71 % 
 Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 code-it                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Windows                  16 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
