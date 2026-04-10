@@ -61,28 +61,28 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌆 Daytime                324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌃 Evening                762 commits         ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌙 Night                  744 commits         ████████░░░░░░░░░░░░░░░░░   32.24 % 
+🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+🌆 Daytime                326 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+🌃 Evening                762 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌙 Night                  745 commits         ████████░░░░░░░░░░░░░░░░░   32.24 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Tuesday                  660 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Wednesday                721 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
-Thursday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Friday                   203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Tuesday                  660 commits         ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Wednesday                721 commits         ████████░░░░░░░░░░░░░░░░░   31.20 % 
+Thursday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Friday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 Sunday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
@@ -94,24 +94,24 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 8 mins        ███████████████░░░░░░░░░░   61.75 % 
-Python                   1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Other                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown                 6 hrs 36 mins       ███████████████░░░░░░░░░░   58.27 % 
+Python                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mediwhale                6 hrs 14 mins       ██████████████░░░░░░░░░░░   54.00 % 
-tell-me-lion             4 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
-law                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-code-it                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+mediwhale                7 hrs 26 mins       ████████████████░░░░░░░░░   65.55 % 
+tell-me-lion             3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+law                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+code-it                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  11 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
