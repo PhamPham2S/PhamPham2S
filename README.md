@@ -61,7 +61,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
@@ -94,24 +94,24 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 6 hrs 36 mins       ███████████████░░░░░░░░░░   58.27 % 
-Python                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 6 hrs 29 mins       ███████████████░░░░░░░░░░   60.22 % 
+Other                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mediwhale                7 hrs 26 mins       ████████████████░░░░░░░░░   65.55 % 
-tell-me-lion             3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-law                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-code-it                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+mediwhale                9 hrs 17 mins       ██████████████████████░░░   86.31 % 
+tell-me-lion             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+law                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+code-it                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+mediwhale-submit         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  11 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 
