@@ -61,7 +61,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
@@ -94,24 +94,24 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 6 hrs 29 mins       ███████████████░░░░░░░░░░   60.22 % 
-Other                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Markdown                 4 hrs 43 mins       ██████████████░░░░░░░░░░░   56.10 % 
+Other                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Python                   1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Docker                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mediwhale                9 hrs 17 mins       ██████████████████████░░░   86.31 % 
-tell-me-lion             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-law                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-code-it                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-mediwhale-submit         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+mediwhale                7 hrs 49 mins       ███████████████████████░░   92.92 % 
+law                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+글쓰기                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+mediwhale-submit         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  10 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
