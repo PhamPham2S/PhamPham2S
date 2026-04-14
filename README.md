@@ -61,30 +61,30 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.38%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-🌆 Daytime                326 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-🌃 Evening                762 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌙 Night                  745 commits         ████████░░░░░░░░░░░░░░░░░   32.24 % 
+🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+🌆 Daytime                326 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌃 Evening                771 commits         ████████░░░░░░░░░░░░░░░░░   33.23 % 
+🌙 Night                  745 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Tuesday                  660 commits         ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-Wednesday                721 commits         ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Thursday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Friday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Sunday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Tuesday                  669 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Wednesday                721 commits         ████████░░░░░░░░░░░░░░░░░   31.08 % 
+Thursday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Friday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Sunday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 
@@ -94,24 +94,25 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 20 mins       █████████████░░░░░░░░░░░░   51.44 % 
-Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Python                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Markdown                 3 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.22 % 
+JSON                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 37 mins       ███████████████████████░░   93.21 % 
+Unknown Editor           28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🐱‍💻 Projects: 
-mediwhale                5 hrs 11 mins       ███████████████░░░░░░░░░░   61.53 % 
-글쓰기                      2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
-law                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-temp                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+mediwhale                3 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.49 % 
+글쓰기                      2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.76 % 
+Unknown Project          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+law                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+temp                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Windows                  8 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
