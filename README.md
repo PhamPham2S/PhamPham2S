@@ -61,9 +61,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -94,25 +94,25 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 6 hrs 39 mins       ██████████████░░░░░░░░░░░   56.28 % 
-Other                    1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-JSON                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Docker                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Markdown                 6 hrs 29 mins       ██████████████░░░░░░░░░░░   56.09 % 
+Other                    1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Python                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+JSON                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 51 mins       ███████████████████░░░░░░   74.91 % 
-Unknown Editor           2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+VS Code                  8 hrs 35 mins       ███████████████████░░░░░░   74.35 % 
+Unknown Editor           2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
 
 🐱‍💻 Projects: 
-luckyttoba               4 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.88 % 
-mediwhale                3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-글쓰기                      2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Unknown Project          56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-temp                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+luckyttoba               5 hrs 54 mins       █████████████░░░░░░░░░░░░   51.06 % 
+글쓰기                      2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+mediwhale                1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Unknown Project          56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+temp                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Windows                  11 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
