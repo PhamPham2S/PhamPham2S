@@ -63,28 +63,28 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-🌆 Daytime                326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-🌃 Evening                836 commits         █████████░░░░░░░░░░░░░░░░   34.26 % 
-🌙 Night                  800 commits         ████████░░░░░░░░░░░░░░░░░   32.79 % 
+🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+🌆 Daytime                326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+🌃 Evening                838 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
+🌙 Night                  800 commits         ████████░░░░░░░░░░░░░░░░░   32.76 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Tuesday                  699 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Wednesday                795 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
-Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Tuesday                  699 commits         ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Wednesday                795 commits         ████████░░░░░░░░░░░░░░░░░   32.56 % 
+Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 Friday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Sunday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Sunday                   74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -94,25 +94,25 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 5 hrs 29 mins       ██████████████░░░░░░░░░░░   56.64 % 
-JSON                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Other                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Python                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Markdown                 5 hrs 26 mins       ██████████████░░░░░░░░░░░   57.11 % 
+JSON                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Python                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       █████████████████░░░░░░░░   69.37 % 
-Unknown Editor           2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
+VS Code                  6 hrs 33 mins       █████████████████░░░░░░░░   68.86 % 
+Unknown Editor           2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
 
 🐱‍💻 Projects: 
-luckyttoba               5 hrs 54 mins       ███████████████░░░░░░░░░░   60.98 % 
-글쓰기                      2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Unknown Project          56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-temp                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-뉴닉 카드뉴스                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+luckyttoba               5 hrs 54 mins       ███████████████░░░░░░░░░░   61.99 % 
+글쓰기                      2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+Unknown Project          52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+temp                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+뉴닉 카드뉴스                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
