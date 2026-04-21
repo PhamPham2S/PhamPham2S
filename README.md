@@ -61,7 +61,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -94,23 +94,23 @@ Sunday                   74 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 4 mins        ██████████████░░░░░░░░░░░   57.84 % 
-Python                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Other                    1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown                 8 hrs 58 mins       ██████████████████░░░░░░░   72.48 % 
+Other                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        ██████████████░░░░░░░░░░░   57.87 % 
-Unknown Editor           2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
+VS Code                  9 hrs 54 mins       ████████████████████░░░░░   79.95 % 
+Unknown Editor           2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
 
 🐱‍💻 Projects: 
-luckyttoba               6 hrs 4 mins        ██████████████████████░░░   86.23 % 
-Unknown Project          52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-뉴닉 카드뉴스                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+luckyttoba               6 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.01 % 
+vibe-coding              4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
+Unknown Project          1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 
 💻 Operating System: 
-Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  12 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
