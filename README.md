@@ -61,7 +61,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -94,23 +94,23 @@ Sunday                   74 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 12 hrs 57 mins      ████████████████████░░░░░   80.33 % 
-Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Markdown                 15 hrs 15 mins      ██████████████████████░░░   86.38 % 
+Other                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 16 mins      ██████████████████████░░░   88.42 % 
-Unknown Editor           1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+VS Code                  16 hrs 51 mins      ████████████████████████░   95.45 % 
+Unknown Editor           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🐱‍💻 Projects: 
-vibe-coding              8 hrs 54 mins       ██████████████░░░░░░░░░░░   55.23 % 
-luckyttoba               4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Unknown Project          2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+vibe-coding              12 hrs 30 mins      ██████████████████░░░░░░░   70.83 % 
+Unknown Project          3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+luckyttoba               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Windows                  16 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
