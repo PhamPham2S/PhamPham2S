@@ -61,7 +61,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -94,23 +94,21 @@ Sunday                   74 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 15 hrs 15 mins      ██████████████████████░░░   86.38 % 
-Other                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Markdown                 20 hrs 46 mins      ██████████████████████░░░   88.76 % 
+Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 51 mins      ████████████████████████░   95.45 % 
-Unknown Editor           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+VS Code                  22 hrs 33 mins      ████████████████████████░   96.41 % 
+Unknown Editor           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🐱‍💻 Projects: 
-vibe-coding              12 hrs 30 mins      ██████████████████░░░░░░░   70.83 % 
-Unknown Project          3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-luckyttoba               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+vibe-coding              17 hrs 10 mins      ██████████████████░░░░░░░   73.40 % 
+Unknown Project          5 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+luckyttoba               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
