@@ -61,7 +61,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -94,21 +94,25 @@ Sunday                   74 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 20 hrs 46 mins      ██████████████████████░░░   88.76 % 
-Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Markdown                 25 hrs 49 mins      █████████████████████░░░░   85.17 % 
+Other                    3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+CSS                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 33 mins      ████████████████████████░   96.41 % 
-Unknown Editor           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+VS Code                  29 hrs 26 mins      ████████████████████████░   97.05 % 
+Unknown Editor           53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🐱‍💻 Projects: 
-vibe-coding              17 hrs 10 mins      ██████████████████░░░░░░░   73.40 % 
-Unknown Project          5 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-luckyttoba               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+vibe-coding              22 hrs 24 mins      ██████████████████░░░░░░░   73.91 % 
+Unknown Project          7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+luckyttoba               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+03_05                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+00-공통자료                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  23 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
