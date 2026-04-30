@@ -61,30 +61,30 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌆 Daytime                326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-🌃 Evening                858 commits         █████████░░░░░░░░░░░░░░░░   34.71 % 
-🌙 Night                  810 commits         ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌞 Morning                478 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌆 Daytime                326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+🌃 Evening                878 commits         █████████░░░░░░░░░░░░░░░░   35.09 % 
+🌙 Night                  820 commits         ████████░░░░░░░░░░░░░░░░░   32.77 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Tuesday                  704 commits         ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Wednesday                810 commits         ████████░░░░░░░░░░░░░░░░░   32.77 % 
-Thursday                 377 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Sunday                   76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Tuesday                  709 commits         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Wednesday                825 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Thursday                 385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Friday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Sunday                   78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -94,25 +94,25 @@ Sunday                   76 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 28 hrs 13 mins      █████████████████████░░░░   84.36 % 
-Other                    3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-HTML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Markdown                 25 hrs              █████████████████████░░░░   84.42 % 
+Other                    2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+HTML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 22 mins      █████████████████████████   99.73 % 
-Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+VS Code                  29 hrs 31 mins      █████████████████████████   99.69 % 
+Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-vibe-coding              25 hrs 50 mins      ███████████████████░░░░░░   77.25 % 
-Unknown Project          7 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-03_05                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-00-공통자료                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+vibe-coding              23 hrs 14 mins      ████████████████████░░░░░   78.50 % 
+Unknown Project          6 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+03_05                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+00-공통자료                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 04-토픽-Stitch디자인          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  33 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
