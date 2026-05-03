@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -94,23 +94,23 @@ Sunday                   76 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 13 hrs 58 mins      ██████████████████████░░░   87.79 % 
-Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Markdown                 13 hrs 27 mins      ██████████████████████░░░   87.48 % 
+Other                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 54 mins      █████████████████████████   99.99 % 
+VS Code                  15 hrs 23 mins      █████████████████████████   99.99 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-vibe-coding              13 hrs 15 mins      █████████████████████░░░░   83.34 % 
-Unknown Project          2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+vibe-coding              13 hrs 8 mins       █████████████████████░░░░   85.34 % 
+Unknown Project          2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 04-토픽-Stitch디자인          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  15 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
