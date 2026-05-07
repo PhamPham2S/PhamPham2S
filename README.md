@@ -94,18 +94,16 @@ Sunday                   76 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         ████████████████████████░   94.72 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vibe-coding              57 mins             █████████████████████░░░░   85.78 % 
-Unknown Project          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
