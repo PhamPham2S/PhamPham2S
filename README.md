@@ -65,24 +65,24 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-860.44%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-860.72%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                473 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-🌆 Daytime                320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-🌃 Evening                856 commits         █████████░░░░░░░░░░░░░░░░   35.18 % 
-🌙 Night                  784 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌞 Morning                473 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+🌆 Daytime                320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+🌃 Evening                858 commits         █████████░░░░░░░░░░░░░░░░   35.24 % 
+🌙 Night                  784 commits         ████████░░░░░░░░░░░░░░░░░   32.20 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Tuesday                  718 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-Wednesday                830 commits         █████████░░░░░░░░░░░░░░░░   34.11 % 
-Thursday                 340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Friday                   192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Tuesday                  719 commits         ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Wednesday                830 commits         █████████░░░░░░░░░░░░░░░░   34.09 % 
+Thursday                 340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Friday                   193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 Sunday                   76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
