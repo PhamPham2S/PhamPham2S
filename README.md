@@ -61,58 +61,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2028%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2010%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-808.59%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                482 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-🌆 Daytime                336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-🌃 Evening                862 commits         █████████░░░░░░░░░░░░░░░░   35.17 % 
-🌙 Night                  771 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Tuesday                  721 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-Wednesday                819 commits         ████████░░░░░░░░░░░░░░░░░   33.41 % 
-Thursday                 366 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Friday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Saturday                 36 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Sunday                   76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-811.49%20thousand%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
